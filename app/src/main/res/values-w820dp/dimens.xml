@@ -1,0 +1,18 @@
+<resources>
+
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+
+    <!-- List page font size -->
+    <dimen name="header_img_height">834.00px</dimen>
+    <dimen name="headlines">32sp</dimen>
+    <dimen name="title_s">32sp</dimen>
+    <dimen name="paper_s">26sp</dimen>
+    <dimen name="date_s">26sp</dimen>
+
+    <!--Detail page font size-->
+    <dimen name="d_title_">26sp</dimen>
+    <dimen name="d_paper_">22sp</dimen>
+    <dimen name="d_date_">22sp</dimen>
+    <dimen name="d_detail">16sp</dimen>
+    <dimen name="related_txt">24sp</dimen>
+</resources>
